@@ -1,0 +1,5 @@
+﻿name,prompt,negative_prompt
+tehse,"positive [promt], ((nsfw)), 1girl, (naked), girl, sexdoll, playing with doll house, very sexy, hi-res, vivid, tight 
+((underage)), petite, (deepthroat), (ass fucked),
+ <lora:detailSliderALT2:0.2>, <lora:wowifierV3:0.65>, <lora:Celtic_20240307115511:0.2>","bad_pictures  ng_deepnegative_v1_75t easynegative
+low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, 6 "
